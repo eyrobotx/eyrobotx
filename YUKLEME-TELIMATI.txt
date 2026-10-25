@@ -1,0 +1,52 @@
+REAL FOTOŞƏKİLLƏR ƏLAVƏ EDİLMİŞ VERSİYA
+7 ədəd photo-*.jpg faylını da index.html-in yanında yükləyin.
+Saytda köhnə görünüş qalarsa Ctrl+F5 ilə yeniləyin.
+Foto mənbələri və lisenziyalar foto-menbeleri.html və FOTO-MENBELERI.txt fayllarında göstərilib.
+
+BU VERSİYADA ASSETS QOVLUĞU LAZIM DEYİL.
+Loqo eyrobotx-logo.png adı ilə index.html-in yanında olmalıdır.
+ZIP-in içini çıxarıb bütün faylları seçərək GitHub → Add file → Upload files ilə yükləyin.
+ZIP-in özünü sayta yükləməyin.
+
+EYROBOTX.COM — SEO ÜÇÜN HAZIR STATİK FRONTEND
+
+PAKET
+27 ayrıca məzmun səhifəsi, 404 səhifəsi, style.css, script.js, eyrobotx-logo.png loqo faylı, sitemap.xml, robots.txt, CNAME və .nojekyll.
+Backend, paket quraşdırılması və build tələb olunmur. Saytın əsas məzmunu HTML fayllarında hazırdır.
+
+GITHUB PAGES-Ə YÜKLƏMƏ
+1. Əvvəlki faylların ehtiyat nüsxəsini saxlayın.
+2. ZIP-i çıxarın. İÇİNDƏKİ bütün sayt fayllarını və eyrobotx-logo.png loqo faylınu mövcud saytın yayımlandığı qovluğa yükləyin.
+3. index.html birbaşa həmin qovluqda olmalıdır; əlavə EYROBOTX qovluğunun içində saxlamayın.
+4. index.html, style.css və script.js-in köhnə nüsxələrini yeniləri ilə əvəz edin. Bütün yeni .html fayllarını, sitemap.xml və robots.txt fayllarını da yükləyin.
+5. CNAME faylının içində yalnız eyrobotx.com var. GitHub Pages-də Custom domain bu domenə uyğun olmalıdır.
+6. .nojekyll gizli faylını da daxil edin. Mövcud .github iş axınlarını və DNS parametrlərini bu ZIP səbəbilə silmək lazım deyil.
+7. Yayımlanma tamamlandıqdan sonra brauzerdə Ctrl+F5 ilə yeniləyin. HTTPS-in aktiv olduğunu yoxlayın.
+
+YÜKLƏMƏDƏN SONRA GOOGLE
+1. Google Search Console-da eyrobotx.com domenini əlavə edin.
+2. Google-un verdiyi DNS TXT qeydini domenin DNS xidmətində əlavə edib sahibliyi təsdiqləyin. Kod hər hesab üçün fərqlidir və bu paketə daxil deyil.
+3. Sitemaps bölməsində sitemap.xml ünvanını göndərin.
+4. URL Inspection bölməsində https://eyrobotx.com/ və vacib kurs səhifələrini yoxlayın; lazım gəldikdə Request indexing edin.
+5. Search Console-da indekslənmə hesabatını izləyin.
+Sitemap-in göndərilməsi və texniki SEO ilk səhifədə görünmə zəmanəti deyil.
+
+HAZIRLANANLAR
+- Hər kurs, xidmət, layihə istiqaməti və yazı üçün ayrıca .html ünvanı.
+- Hər səhifəyə uyğun title və meta description.
+- https://eyrobotx.com/ ünvanına uyğun canonical və sosial paylaşım metadatası.
+- Organization, WebSite, WebPage; uyğun səhifələrdə Course, Service və Article strukturlaşdırılmış məlumatları.
+- sitemap.xml, robots.txt, 404.html və GitHub Pages domen faylı.
+- Köhnə #course/... keçidlərindən yeni HTML ünvanlarına JavaScript yönləndirməsi.
+- Kurs və sual-cavab axtarışı, modul açılması, WhatsApp müraciəti.
+
+MƏZMUNU YENİLƏMƏ
+Mətnlər müvafiq .html fayllarında, dizayn style.css-də, axtarış və forma davranışı script.js-dədir. Yeni səhifə əlavə etdikdə sitemap.xml-i də yeniləyin.
+Yeni kurs yaratdıqda script.js daxilində courseRoutes xəritəsini və kurs kartının data-course, data-category və data-search atributlarını da uyğunlaşdırın.
+Domen dəyişərsə canonical, og:url, og:image, JSON-LD, sitemap.xml, robots.txt və CNAME birlikdə yenilənməlidir.
+
+MƏHDUDİYYƏTLƏR
+Qiymətlər, real ünvan və əlavə sosial hesablar verilmədiyi üçün uydurulmayıb. Formanın mətni WhatsApp-da açılır və istifadəçi özü göndərir. Google Search Console hesabına giriş və sahibliyin təsdiqi ayrıca edilməlidir.
+
+YOXLAMA
+28 HTML faylının başlıq quruluşu, meta məlumatları, daxili fayl keçidləri, JSON-LD və sitemap sintaksisi yoxlanılıb. Brauzerdə kurs axtarışı, ayrıca kurs səhifəsi və müraciətdə kurs seçimi yoxlanılıb.

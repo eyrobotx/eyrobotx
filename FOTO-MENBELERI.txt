@@ -1,0 +1,22 @@
+Robot qolu | ZHENYU LUO | https://unsplash.com/photos/kE0JmtbvXxM | Unsplash License | https://unsplash.com/license
+Fayl: photo-robot.jpg
+
+Arduino dövrəsi | Vishnu Mohanan | https://unsplash.com/photos/0iRfjG7IGeo | Unsplash License | https://unsplash.com/license
+Fayl: photo-arduino.jpg
+
+3D printer | Jakub Żerdzicki | https://unsplash.com/photos/Px1eDMRm9xY | Unsplash License | https://unsplash.com/license
+Fayl: photo-3d.jpg
+
+Proqramlaşdırma | Dawit | https://unsplash.com/photos/2b_CoiuZCKI | Unsplash License | https://unsplash.com/license
+Fayl: photo-code.jpg
+
+Mühəndislik laboratoriyasında iş | ThisisEngineering | https://unsplash.com/photos/k9a7H43zhP4 | Unsplash License | https://unsplash.com/license
+Fayl: photo-lab.jpg
+
+LEGO xətt izləyən robot | chauromano (Romano A. Fabian) | https://commons.wikimedia.org/wiki/File:40365_Line_Follower_Robot.jpg | CC BY 2.0 | https://creativecommons.org/licenses/by/2.0/
+Fayl: photo-line.jpg
+
+Mini sumo yarışı | Trsumo | https://commons.wikimedia.org/wiki/File:Mini-sumo_no_Brasil.jpg | CC BY-SA 4.0 | https://creativecommons.org/licenses/by-sa/4.0/
+Fayl: photo-sumo.jpg
+
+Fotolar nümunə və mövzu təsviri üçündür; EYROBOTX portfolioları kimi təqdim edilmir. CSS object-fit ilə görünüş kəsilə bilər; Commons foto fayllarının orijinalları dəyişdirilməyib.
